@@ -1,8 +1,8 @@
-### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Anıl COŞAR</h1>
-<h3 align="center">I am an electrical and electronics engineering graduate, I worked in various software fields (such as artificial intelligence and PLC programming) during my university years. I have been developing myself as a Front-End Developer in recent years, you can review my projects and programming languages ​​that I work below.</h3>
+
+<h1 align="center">Hi 👋, I'm Anıl COŞAR</h1> 
+<h3 align="center">I just graduated from electrical and electronics engineering, I worked in various software fields (such as artificial intelligence and PLC programming) during my university years. I have been developing myself as a Front-End Developer in recent years, you can review my projects and programming languages ​​that I work below.</h3>
 
 - 🌱 I’m currently learning **React.js**
 
