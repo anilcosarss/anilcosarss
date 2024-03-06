@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anıl COŞAR</h1> 
-<h4 align="center">I just graduated from electrical and electronics engineering, I worked in various software fields (such as artificial intelligence and PLC programming) during my university years. I have been developing myself as a Front-End Developer in recent months, you can review my projects and programming languages ​​that I work below.</h4>
+
 
 <br><br>
 
