@@ -6,7 +6,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **anilcosarsg12@gmail.com**
 
